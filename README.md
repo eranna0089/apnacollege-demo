@@ -1,5 +1,5 @@
 # apnacollege-demo
 this is my first repository
 <br>
-author-eren
+author-erenGowda
 name is eranna
